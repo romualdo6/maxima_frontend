@@ -1,29 +1,11 @@
 # maxima_frontend
 
-## Project setup
+## PRIMEIRO COMANDO A RODAR
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### SEGUNDO COMANDO A RODAR
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
